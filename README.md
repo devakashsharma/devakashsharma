@@ -22,8 +22,8 @@ to all geeks 🧑‍💻 and shinobis 🥷 around the world 🌎. 👋 I'm a ded
 <br />
 <br />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devakashsharma&show_icons=true&locale=en" alt="devakashsharma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devakashsharma&show_icons=true&locale=en&layout=compact" alt="devakashsharma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devakashsharma&show_icons=true&locale=en" alt="devakashsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devakashsharma&" alt="devakashsharma" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devakashsharma&show_icons=true&locale=en&layout=compact" alt="devakashsharma" /></p>
