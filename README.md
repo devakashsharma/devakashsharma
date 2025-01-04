@@ -6,7 +6,7 @@ to all geeks 🧑‍💻 and shinobis 🥷 around the world 🌎. 👋 I'm a ded
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 <br />
-<br />
+<!-- <br /> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devakashsharma&label=Profile%20views&color=0e75b6&style=flat" alt="devakashsharma" /> </p> -->
 
