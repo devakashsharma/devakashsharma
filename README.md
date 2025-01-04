@@ -8,7 +8,7 @@ to all geeks 🧑‍💻 and shinobis 🥷 around the world 🌎. 👋 I'm a ded
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devakashsharma&label=Profile%20views&color=0e75b6&style=flat" alt="devakashsharma" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devakashsharma&label=Profile%20views&color=0e75b6&style=flat" alt="devakashsharma" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -127,6 +127,6 @@ to all geeks 🧑‍💻 and shinobis 🥷 around the world 🌎. 👋 I'm a ded
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devakashsharma&show_icons=true&locale=en&layout=compact" alt="devakashsharma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devakashsharma&show_icons=true&locale=en" alt="devakashsharma" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devakashsharma&show_icons=true&locale=en" alt="devakashsharma" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devakashsharma&" alt="devakashsharma" /></p>
