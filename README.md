@@ -1,28 +1,41 @@
-<h1 align="center">👋 Hi, I'm Akash Sharma!</h1>
+<!-- <h1 align="center">👋 Hi, I'm Akash Sharma!</h1>
 
 <h3 align="center">
-  <code>`Hello`</code> to all the Geeks 🧑‍💻 and Shinobis 🥷 around the World 🌍
+  <code>`Hello`</code> 
 </h3>
 
 <p align="center">
-  🚀 I'm a passionate <strong>Computer Science student</strong> with a love for crafting innovative solutions and diving deep into the art of programming 💻.
+  to all the Geeks 🧑‍💻 and Shinobis 🥷 around the World 🌍,  🚀 I'm
+</p>
+
+<!-- --- -->
+
+<!-- <h3 align="center">🦊 A Shinobi Developer with the Spirit of the Nine-Tails!</h3>
+
+<p align="center">
+  🌟 Armed with the wisdom of the Hidden Leaf Village 🌳, a passionate Computer Science student
+  But please, don't ask me to clone myself—I'm just one developer! 😄
+</p> -->
+
+<!-- <h1 align="center">👋 Hi, I'm Akash Sharma!</h1> -->
+
+<h2 align="center">
+  <code>`Hello`</code> 
+</h2>
+
+<p align="center">
+  🌟 to all the Geeks 🧑‍💻 and Shinobis 🥷 around the World! 🚀  <br />
+  I'm a <strong>🦊 Shinobi Developer with the Spirit of the Nine-Tails</strong>,  <br />
+  armed with the wisdom of the Hidden Leaf Village 🌳. <br /> 
+  But please, don't ask me to clone myself—I'm just one developer! 😄
 </p>
 
 ---
 
-<h3 align="center">🦊 A Shinobi Developer with the Spirit of the Nine-Tails!</h3>
-
-<p align="center">
-  🌟 Armed with the wisdom of the Hidden Leaf Village 🌳, I take on every coding challenge with dedication and resilience.  
-  But please, don't ask me to shadow clone myself—I'm just one developer! 😄
-</p>
-
-
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" alt="Ninja GIF" />
 
 <br />
-<!-- <br /> -->
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devakashsharma&label=Profile%20views&color=0e75b6&style=flat" alt="devakashsharma" /> </p> -->
 
