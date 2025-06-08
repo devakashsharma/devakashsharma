@@ -3,8 +3,9 @@
 <div align="center">
 
 ### `$ whoami`
+
 ```bash
-> Full-Stack Developer | Nine-Tails Spirit | Hidden Leaf Village Graduate
+> Full-Stack Developer | Nine-Tails Spirit | Shinobi from Hidden Leaf 🌿
 ```
 
 </div>
@@ -18,6 +19,7 @@
 ---
 
 ### 🎯 **[→ CHECK OUT MY PORTFOLIO ←](https://devakashsharma.netlify.app/)**
+
 *Where code meets creativity*
 
 ---
@@ -30,12 +32,12 @@
 
 ```javascript
 const akash = {
-    location: "Hidden Leaf Village (Earth Realm)",
-    currentMission: "Building digital solutions",
-    specialJutsu: ["Full-Stack Development", "Mobile Apps", "Data Analysis"],
-    chakraNature: ["JavaScript", "React", "Node.js", "Flutter"],
-    currentlyLearning: "Advanced Ninjutsu... I mean, AI/ML",
-    motto: "Code with the spirit of the Nine-Tails! 🦊"
+    location: "Hidden Leaf Village, Earth-616 🌍",
+    currentMission: "Leveling up as a Full-Stack AI Developer 🚀",
+    specialJutsu: ["Full-Stack Development", "Mobile Apps", "FastAPI Summoning", "AI Integrations"],
+    chakraNature: ["JavaScript", "React", "Node.js", "Python", "FastAPI", "MongoDB"],
+    currentlyLearning: "Advanced Ninjutsu... I mean, AI/ML & Intelligent Systems 🤖",
+    motto: "Code. Train. Evolve. Repeat — with the spirit of the Nine-Tails! 🦊"
 };
 ```
 
@@ -48,6 +50,7 @@ const akash = {
 <div align="center">
 
 ### ⚡ **Frontend Mastery**
+
 <table>
 <tr>
 <td align="center" width="100">
@@ -96,6 +99,7 @@ const akash = {
 </table>
 
 ### 🔧 **Backend & Database Powers**
+
 <table>
 <tr>
 <td align="center" width="100">
@@ -122,6 +126,7 @@ const akash = {
 </table>
 
 ### 📱 **Mobile & Cross-Platform Jutsu**
+
 <table>
 <tr>
 <td align="center" width="100">
@@ -140,6 +145,7 @@ const akash = {
 </table>
 
 ### 🧠 **Data Analysis & AI/ML**
+
 <table>
 <tr>
 <td align="center" width="100">
@@ -162,6 +168,7 @@ const akash = {
 </table>
 
 ### 🛠️ **DevOps & Tools**
+
 <table>
 <tr>
 <td align="center" width="100">
@@ -235,6 +242,7 @@ const akash = {
 <div align="center">
 
 ### 🔥 **Current Streak**
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devakashsharma&theme=tokyonight)](https://git.io/streak-stats)
 
 <!-- ### 🏆 **GitHub Trophies**
@@ -258,6 +266,7 @@ const akash = {
 ---
 
 ### 💝 **Show Some Love**
+
 If you like my work, consider giving a ⭐ to my repositories!
 
 </div>
