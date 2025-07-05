@@ -26,7 +26,7 @@
 
 </div>
 
-<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif" alt="Ninja Coding" />
+<img align="right" height="50" src="https://i.imgflip.com/65efzo.gif" alt="Ninja Coding" />
 
 ### 🔥 **About This Shinobi**
 
