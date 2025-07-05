@@ -275,7 +275,7 @@ If you like my work, consider giving a ⭐ to my repositories!
 
 ### 🦊 **"Code is like ninjutsu - master the fundamentals, then create your own style!"**
 
-<img src="https://komarev.com/ghpvc/?username=devakashsharma&label=Profile%20views&color=ff6b35&style=for-the-badge" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=devakashsharma&label=Profile%20views&color=ff6b35&style=for-the-badge" alt="Profile Views" /> -->
 
 </div>
 
