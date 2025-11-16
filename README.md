@@ -267,7 +267,7 @@ const akash = {
 
 ### 💝 **Show Some Love**
 
-If you like my work, consider giving a ⭐ to my repositories!
+If you like my work, my style, consider giving a ⭐ to my repositories!
 
 </div>
 
