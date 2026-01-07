@@ -37,7 +37,7 @@ const akash = {
     specialJutsu: ["Full-Stack Development", "Mobile Apps", "FastAPI Summoning", "AI Integrations"],
     chakraNature: ["JavaScript", "React", "Node.js", "Python", "FastAPI", "MongoDB"],
     currentlyLearning: "Advanced Ninjutsu... I mean, AI/ML & Intelligent Systems 🤖",
-    motto: "Code. Train. Evolve. Repeat — with the spirit of the Nine-Tails! 🦊"
+    motto: "Code. Train. Evolve. And Repeat — with the spirit of the Nine-Tails! 🦊"
 };
 ```
 
